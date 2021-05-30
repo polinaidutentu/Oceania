@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+#appcarousel{
+    background:linear-gradient(#fa291e 0%,#ff9f05 100%);
+}
+#mygames{
+    background: linear-gradient(#ffe605 0%,#2fff05 100%);
+}
+#mychatbot{
+    background: linear-gradient(#0593ff 0%, #05fcec 100%);
+}
+.container{
+    text-align: center;
+    
+}
